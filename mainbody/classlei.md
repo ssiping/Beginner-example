@@ -37,5 +37,5 @@ print("************************************6")
 MyClass.run()
 print("************************************7")
 ```
-![b3f06524e4c4a3bf68c4c319d05bad8](https://github.com/ssiping/Beginner-example/blob/master/mainbody/image/b3f06524e4c4a3bf68c4c319d05bad8.png)
+![b3f06524e4c4a3bf68c4c319d05bad8](./image/b3f06524e4c4a3bf68c4c319d05bad8.png)
 
