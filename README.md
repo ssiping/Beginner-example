@@ -8,4 +8,5 @@ python菜鸟的学习小例子，一天进步一点点
 > |4|[mysql数据库连接](./mainbody/connectmysql.md)|
 > |5|[百度抓取美女图片](https://github.com/ssiping/Beginner-example/blob/master/mainbody/grabbeauty.md)|
 > |6|[静态方法、类方法和实例方法](https://github.com/ssiping/Beginner-example/blob/master/mainbody/classlei.md)|
+> |7|[煎蛋网抓取妹子](./mainbody/jiandan_zhuatupian.md)|
 
