@@ -11,3 +11,4 @@ python菜鸟的学习小例子，一天进步一点点
 > |7|[煎蛋网抓取妹子](./mainbody/jiandan_zhuatupian.md)|
 > |8|[二分法猜一个数](./mainbody/erfenfachazhao.md)|
 > |9|[mysql数据库操作](./mainbody/mysqlcaozuo.md)|
+> |10|[迭代器转换为生成器函数](./mainbody/shengchengqi.md)|
